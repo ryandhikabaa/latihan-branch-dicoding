@@ -1,3 +1,3 @@
 # Ini repo baru untuk latihan switch branch
 
-Github itu asyik lo.
+Belajar Github di Dicoding itu seru!
